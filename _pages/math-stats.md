@@ -6,4 +6,4 @@ taxonomy: math-stats
 author_profile: false
 ---
 
-Posts on math, stats, programming, and anything that requires entirely too much attention to pesky details.
+Posts on math, stats, programming, and other things requiring too much attention to detail.
