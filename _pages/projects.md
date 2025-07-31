@@ -14,7 +14,7 @@ Here are some projects I've worked on:
 A. Choudhri, J. Winslow, G. Novoa, A. Gelman 
 
 *Estimating the Effect of Introducing Modern Plant-Based Analogs in Restaurants* \
-J. Winslow, J. Peacock, J. Dhargawe, H. Sherman, S. Green, M. Mathur
+J. Winslow, J. Peacock, J. Dhargawe, H. Sherman, S. Green, M. B. Mathur
 
 
 
@@ -27,7 +27,7 @@ Y. Cheng, Y. Chen, M. Kwak, R. P. Kempner, R. Singha, J. Winslow, R. Liu, U. Kha
 
 #### 2025
 *Reanalysis of “A Longitudinal Study of Meat Reduction Over Time in the UK”*\
-J. Winslow, M. Mathur
+J. Winslow, M. B. Mathur
 
 ## RL & Explainable AI
 
