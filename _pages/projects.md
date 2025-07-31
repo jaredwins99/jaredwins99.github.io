@@ -32,7 +32,7 @@ J. Winslow, M. Mathur
 ## RL & Explainable AI
 
 ###### Leader-Follower Dynamics in Multi-Agent RL
-By strength of heart or rate of state conversion, one agent will became leader and one follower.
+By strength of heart or rate of state conversion, one agent will become leader and one follower.
 
 ###### Layerwise Relevance Propagation for Feature Networks
 Unfortunately, black-box saliency maps seem to be edge detectors. If a confused model calls a picture of an elephant a giraffe, and the interpretability method says the model thinks it's an elephant, it's not a very good interpretability method now is it.
@@ -40,10 +40,10 @@ Unfortunately, black-box saliency maps seem to be edge detectors. If a confused 
 ## Statistics & Machine Learning
 
 ###### ITS with Multilevel Integer-Valued GARCHs 
-Aka the ITSMLZINBINGARCHX. Thank you Stan for allowing this monstrosity to converge. Another win for partial pooling, and another success for classical time series forecasting.
+Aka the ITSMLZINBINGARCHX. Thank you Stan for allowing this behemoth to converge. A win for partial pooling, and another success for classical time series forecasting.
 
 ###### Social Ties and the 2025 Presidential Election
-Remember that "French whale" who made a fortune on polymarket betting on the political leanings of your neighbor? Well, let's see whether he was on to something or just on the "right" side of variance.
+Remember that French "whale" who made a fortune on polymarket betting on neighbor polling? Well, let's see whether he was on to something or just on the right side of variance.
 
 ###### Cost-Effective Lead Sampling with GPs
 The perfect use case for high-dimensional Bayesian Gaussian processes. If we can guess where the lead *isn't* in a containment site (and be confident about it) then we don't need to dig it all up!
