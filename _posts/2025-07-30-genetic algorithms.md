@@ -7,5 +7,5 @@ categories:
 tags:
   - statistics
   - probability
-excerpt: "We're not in 60s anymore, but can we still evolve our way toward successful software? Stats spin on GAs and their variants, as well as some shortcomings."
+excerpt: "We're not in the 60s era of AI anymore, but can we still evolve our way toward successful software? Stats spin on GAs and the like, as well as some shortcomings."
 ---
