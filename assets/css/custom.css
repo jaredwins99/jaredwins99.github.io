@@ -1,0 +1,79 @@
+/* Custom text size adjustments - more pronounced */
+
+/* Make site title (your name) larger */
+.masthead__inner .site-title,
+.site-title,
+.masthead .site-title,
+header .site-title,
+.site-logo img {
+  font-size: 1.4em !important;
+  color: #636060 !important;
+}
+
+/* Make page titles smaller */
+.page__title {
+  font-size: 1.6em !important;
+  color: #201c1c !important;
+}
+
+/* Make post titles in listings smaller */
+.archive__item-title {
+  font-size: 1.0em !important;
+}
+
+/* Make post content text smaller */
+.page__content p,
+.page__content li {
+  font-size: 0.85em !important;
+}
+
+/* Make introductory text on pages smaller and lighter */
+.page__content > p:first-of-type {
+  font-size: 0.9em !important;
+  color: #555 !important;
+  margin-top: .3em !important;
+  margin-bottom: 1.5em !important;
+}
+
+/* Target blog reel pages (Math & Stats and Home) */
+.layout--archive .page__content p,
+.layout--posts .page__content p,
+.layout--category .page__content p,
+.layout--posts-clean .page__content p,
+.archive .page__content p {
+  color: #555 !important;
+  font-size: 0.9em !important;
+}
+
+/* Target Stats page title specifically */
+.page__title:contains("Stats"),
+[href="/math-stats/"] .page__title,
+body[class*="math-stats"] .page__title {
+  color: #555 !important;
+}
+
+/* Reset project descriptions to normal */
+.layout--single .page__content h3 + p {
+  color: inherit !important;
+  font-size: 0.85em !important;
+}
+
+/* Make project section header underlines thicker (only H2, not H3) */
+.page__content h2 {
+  border-bottom: 3px solid #f2f3f3 !important;
+  padding-bottom: 0.5em !important;
+}
+
+/* Make post excerpts smaller */
+.archive__item-excerpt {
+  font-size: 0.8em !important;
+}
+
+/* Hide permalink text */
+.page__meta .page__date::after {
+  display: none !important;
+}
+
+.page__meta {
+  font-size: 0.75em !important;
+}

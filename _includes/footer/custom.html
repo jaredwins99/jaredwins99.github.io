@@ -1,3 +1,18 @@
 <!-- start custom footer snippets -->
-
+<script>
+  // Hide the default footer elements
+  document.addEventListener('DOMContentLoaded', function() {
+    // Remove copyright
+    var copyright = document.querySelector('.page__footer-copyright');
+    if (copyright) {
+      copyright.style.display = 'none';
+    }
+    
+    // Remove "Follow" text and social links
+    var followText = document.querySelector('.page__footer-follow');
+    if (followText) {
+      followText.style.display = 'none';
+    }
+  });
+</script>
 <!-- end custom footer snippets -->
