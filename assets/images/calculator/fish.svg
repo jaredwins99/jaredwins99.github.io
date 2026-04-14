@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <g id="fish">
+    <!-- Tail -->
+    <path d="M60,100 L20,55 L35,100 L20,145 Z" fill="#2f6885"/>
+    <!-- Body (top half - blue) -->
+    <path d="M60,100 Q160,20 320,80 Q355,95 355,100 L60,100 Z" fill="#4a90b8"/>
+    <!-- Belly (bottom half - cream) -->
+    <path d="M60,100 Q160,180 320,120 Q355,105 355,100 L60,100 Z" fill="#f4efe6"/>
+    <!-- Top (dorsal) fin -->
+    <path d="M170,55 L210,25 L240,60 Z" fill="#2f6885"/>
+    <!-- Bottom (pelvic) fin -->
+    <path d="M170,145 L205,175 L235,140 Z" fill="#2f6885"/>
+    <!-- Side (pectoral) fin -->
+    <path d="M230,105 L275,135 L285,108 Z" fill="#2f6885"/>
+    <!-- Gill line -->
+    <path d="M295,80 Q285,100 295,120" fill="none" stroke="#2f6885" stroke-width="2" stroke-linecap="round"/>
+    <!-- Eye white -->
+    <circle cx="320" cy="92" r="8" fill="#ffffff"/>
+    <!-- Eye pupil -->
+    <circle cx="322" cy="92" r="3.5" fill="#1a1a1a"/>
+  </g>
+</svg>

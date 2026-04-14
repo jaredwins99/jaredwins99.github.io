@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+
+  <!-- Bun top: domed shape with sesame seeds -->
+  <g id="bun-top">
+    <path d="M 110 160
+             Q 110 95 200 95
+             Q 290 95 290 160
+             L 290 170
+             L 110 170
+             Z"
+          fill="#d4a574"/>
+    <ellipse cx="155" cy="135" rx="6" ry="3" fill="#f4e8c8"/>
+    <ellipse cx="185" cy="118" rx="6" ry="3" fill="#f4e8c8"/>
+    <ellipse cx="215" cy="120" rx="6" ry="3" fill="#f4e8c8"/>
+    <ellipse cx="245" cy="135" rx="6" ry="3" fill="#f4e8c8"/>
+    <ellipse cx="200" cy="148" rx="6" ry="3" fill="#f4e8c8"/>
+    <ellipse cx="170" cy="152" rx="6" ry="3" fill="#f4e8c8"/>
+    <ellipse cx="230" cy="152" rx="6" ry="3" fill="#f4e8c8"/>
+  </g>
+
+  <!-- Lettuce: frilly wavy bottom edge -->
+  <g id="lettuce">
+    <path d="M 100 170
+             L 300 170
+             L 300 190
+             Q 293 205 286 190
+             Q 279 205 272 190
+             Q 265 205 258 190
+             Q 251 205 244 190
+             Q 237 205 230 190
+             Q 223 205 216 190
+             Q 209 205 202 190
+             Q 195 205 188 190
+             Q 181 205 174 190
+             Q 167 205 160 190
+             Q 153 205 146 190
+             Q 139 205 132 190
+             Q 125 205 118 190
+             Q 111 205 104 190
+             L 100 190
+             Z"
+          fill="#6fb27a"/>
+  </g>
+
+  <!-- Tomato: slim oval slice -->
+  <g id="tomato">
+    <ellipse cx="200" cy="213" rx="95" ry="10" fill="#c44d4d"/>
+  </g>
+
+  <!-- Cheese: trapezoidal with two drooping corners -->
+  <g id="cheese">
+    <path d="M 105 228
+             L 295 228
+             L 295 245
+             Q 292 258 285 255
+             Q 278 252 270 248
+             L 130 248
+             Q 122 252 115 255
+             Q 108 258 105 245
+             Z"
+          fill="#e7c66a"/>
+  </g>
+
+  <!-- Patty: slightly bumpy oval -->
+  <g id="patty">
+    <path d="M 105 262
+             Q 108 253 118 253
+             Q 130 250 145 252
+             Q 165 250 185 252
+             Q 205 250 225 252
+             Q 245 250 265 252
+             Q 280 250 292 253
+             Q 297 253 298 262
+             Q 298 278 290 282
+             Q 275 287 255 285
+             Q 230 288 200 286
+             Q 170 288 145 285
+             Q 125 287 110 282
+             Q 102 278 105 262
+             Z"
+          fill="#5c3a25"/>
+  </g>
+
+  <!-- Bun bottom: rounded slab -->
+  <g id="bun-bottom">
+    <path d="M 110 290
+             L 290 290
+             L 290 305
+             Q 290 325 260 325
+             L 140 325
+             Q 110 325 110 305
+             Z"
+          fill="#d4a574"/>
+  </g>
+
+</svg>

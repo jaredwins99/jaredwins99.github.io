@@ -1,0 +1,52 @@
+.scroll-section {
+  position: relative;
+}
+
+.scroll-section > .scroll-stage,
+.scroll-section > [data-scroll-progress] {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.scroll-stage {
+  will-change: transform;
+}
+
+[data-split-y] {
+  will-change: transform;
+}
+
+[data-fade-in-at] {
+  opacity: 0;
+  transform: translateY(12px);
+  will-change: opacity, transform;
+}
+
+[data-morph-out-at] {
+  opacity: 1;
+  transform: scale(1);
+  will-change: opacity, transform;
+}
+
+[data-morph-in-at] {
+  opacity: 0;
+  transform: scale(1.05);
+  will-change: opacity, transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scroll-stage,
+  [data-split-y],
+  [data-fade-in-at],
+  [data-morph-out-at],
+  [data-morph-in-at] {
+    transition: none !important;
+    will-change: auto;
+  }
+
+  [data-split-y] {
+    transform: none !important;
+  }
+}

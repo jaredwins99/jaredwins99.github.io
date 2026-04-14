@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="cow">
+    <!-- Back legs -->
+    <rect x="115" y="240" width="22" height="90" fill="#f4efe6"/>
+    <rect x="240" y="240" width="22" height="90" fill="#f4efe6"/>
+    <!-- Front legs -->
+    <rect x="150" y="240" width="22" height="90" fill="#f4efe6"/>
+    <rect x="275" y="240" width="22" height="90" fill="#f4efe6"/>
+    <!-- Hooves -->
+    <rect x="113" y="325" width="26" height="12" fill="#1a1a1a"/>
+    <rect x="148" y="325" width="26" height="12" fill="#1a1a1a"/>
+    <rect x="238" y="325" width="26" height="12" fill="#1a1a1a"/>
+    <rect x="273" y="325" width="26" height="12" fill="#1a1a1a"/>
+    <!-- Udder -->
+    <ellipse cx="195" cy="270" rx="28" ry="22" fill="#ffb3b3"/>
+    <circle cx="182" cy="288" r="5" fill="#ffb3b3"/>
+    <circle cx="208" cy="288" r="5" fill="#ffb3b3"/>
+    <!-- Body -->
+    <ellipse cx="210" cy="215" rx="110" ry="60" fill="#f4efe6"/>
+    <!-- Tail -->
+    <path d="M 105 190 Q 80 200 78 240 Q 78 255 88 258 Q 92 245 90 235 Q 92 215 108 205 Z" fill="#f4efe6"/>
+    <circle cx="85" cy="258" r="8" fill="#1a1a1a"/>
+    <!-- Spots (asymmetric) -->
+    <ellipse cx="170" cy="185" rx="22" ry="15" fill="#1a1a1a"/>
+    <ellipse cx="230" cy="230" rx="28" ry="18" fill="#1a1a1a"/>
+    <ellipse cx="275" cy="190" rx="16" ry="12" fill="#1a1a1a"/>
+    <ellipse cx="145" cy="235" rx="12" ry="8" fill="#1a1a1a"/>
+    <!-- Neck -->
+    <path d="M 295 185 Q 310 175 325 180 L 330 230 Q 315 235 300 232 Z" fill="#f4efe6"/>
+    <!-- Head -->
+    <ellipse cx="335" cy="195" rx="45" ry="42" fill="#f4efe6"/>
+    <!-- Horns -->
+    <path d="M 318 158 Q 310 145 305 138 Q 312 142 320 152 Z" fill="#1a1a1a"/>
+    <path d="M 352 158 Q 360 145 365 138 Q 358 142 350 152 Z" fill="#1a1a1a"/>
+    <!-- Ear -->
+    <ellipse cx="310" cy="172" rx="12" ry="8" fill="#f4efe6" transform="rotate(-30 310 172)"/>
+    <ellipse cx="312" cy="173" rx="7" ry="4" fill="#d4a574" transform="rotate(-30 312 173)"/>
+    <!-- Snout / nose patch -->
+    <ellipse cx="360" cy="215" rx="22" ry="18" fill="#d4a574"/>
+    <!-- Nostrils -->
+    <ellipse cx="365" cy="212" rx="2" ry="3" fill="#1a1a1a"/>
+    <ellipse cx="370" cy="220" rx="2" ry="3" fill="#1a1a1a"/>
+    <!-- Mouth -->
+    <path d="M 355 225 Q 360 230 368 228" stroke="#1a1a1a" stroke-width="1.5" fill="none"/>
+    <!-- Eye -->
+    <circle cx="340" cy="185" r="4" fill="#1a1a1a"/>
+  </g>
+</svg>
