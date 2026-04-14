@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en" class="calc-root">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} — {{ site.title }}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@600;700;800&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/calculator.css' | relative_url }}">
+</head>
+<body>
+
+<header class="calc-nav">
+  <a href="{{ '/' | relative_url }}" class="calc-nav__brand">Jared Winslow</a>
+  <nav class="calc-nav__links">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/projects/' | relative_url }}">Projects</a>
+    <a href="#intro">About this tool</a>
+  </nav>
+</header>
+
+<section class="calc-hero">
+  <div class="calc-hero__inner">
+    <p class="calc-hero__eyebrow">Prototype</p>
+    <h1 class="calc-hero__title">{{ page.title }}</h1>
+    <p class="calc-hero__lede">A tool for thinking quantitatively about questions that resist easy intuition.</p>
+    <a href="#intro" class="calc-hero__cta">Begin ↓</a>
+  </div>
+  <div class="calc-hero__scrim"></div>
+</section>
+
+<main class="calc-main">
+  {{ content }}
+</main>
+
+<footer class="calc-foot">
+  <p>Prototype page — {{ site.title }}</p>
+</footer>
+
+<script>
+  // Reveal-on-scroll
+  const io = new IntersectionObserver((entries) => {
+    for (const e of entries) {
+      if (e.isIntersecting) { e.target.classList.add('is-visible'); io.unobserve(e.target); }
+    }
+  }, { threshold: 0.15 });
+  document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+</script>
+</body>
+</html>
