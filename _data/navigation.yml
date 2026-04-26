@@ -2,15 +2,7 @@
 main:
   - title: "Posts"
     url: /
-  - title: "Stats"
-    url: /math-stats/
   - title: "Projects"
     url: /projects/
   - title: "Tutoring"
     url: /tutoring/
-  - title: "Calculator"
-    url: /calculator/
-  - title: "MyCalc"
-    url: /mycalculator/
-  - title: "MyCalc 2"
-    url: /mycalculator2/
