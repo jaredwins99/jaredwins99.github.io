@@ -29,10 +29,10 @@ J. Winslow, M. B. Mathur
 ## RL & Explainable AI
 
 ###### Leader-Follower Dynamics in Multi-Agent RL
-Does one agent have what it takes to become a leader? The real research questions here are: Can RL agents cooperate? Yes. Do they adopt leader-follower dynamics in our environment? Somewhat. To the extent that mice do? Not at all.
+Does one agent have what it takes to become a leader? The real [research](https://github.com/jaredwins99/marl-leader-follower) questions here are: Can RL agents cooperate? Yes. Do they adopt leader-follower dynamics in our environment? Somewhat. To the extent that mice do? Not at all.
 
 ###### Layerwise Relevance Propagation for Feature Networks
-Unfortunately, many black-box saliency maps seem to be edge detectors. If a confused model calls a picture of an elephant a giraffe (through adversarial training), and everything in the interpretability method says the model still thinks it's an elephant, it's not a very good interpretability method now is it.
+Unfortunately, many black-box saliency maps seem to be edge detectors. If a confused model calls a picture of an elephant a giraffe (through adversarial training), and everything in the interpretability method says the model still thinks it's an elephant, it's not a very good [interpretability](https://github.com/jaredwins99/lrp-feature-attribution) method now is it.
 
 ## Statistics & Applications
 
