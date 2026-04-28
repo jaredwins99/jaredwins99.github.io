@@ -39,7 +39,7 @@ Unfortunately, many black-box saliency maps seem to be edge detectors. If a conf
 ###### ITS with Multilevel Integer-Valued GARCHs 
 Aka the [ITSMLZINBINGARCHX](https://github.com/jaredwins99/alt-protein-sales-effects). Thank you Stan for allowing this large, unwieldy model to converge. A win for partial pooling, and a success for classical time series forecasting in balancing interpretability and prediction capability.
 
-###### RAG for Stan modeling
+###### RAG for Stan Modeling
 I'm sure people have tried using RAG with LLMs on more domains and in more ways than I can count, but I still think there may be room on the table for forcing LLMs to use best practices when those standards have already been exhaustively detailed somewhere.
 
 ###### Social Ties and the 2025 Presidential Election
@@ -47,3 +47,15 @@ Remember that French "whale" who made a fortune on polymarket betting on neighbo
 
 ###### Cost-Effective Lead Sampling with GPs
 I'd say it this is a perfect use [case](https://github.com/jaredwins99/gaussian-processes-xrf-soil-predictions) for high-dimensional Bayesian Gaussian processes, especially when you have few samples. If we can guess where the lead *isn't* in a containment site (and be confident about it) then we don't need to dig it all up.
+
+###### Textbook Parser
+Textbooks can sometimes be incredibly uninteractive, and I wanted to change that. So far, breaking down *ELements of Statistical Learning* into [knowledge graphs](https://github.com/jaredwins99/textparse) and interactive visuals seems to be working, albeit with much misplaced emphasis by Claude. It works well as an example since 1) it's very popular, and 2) I know it well to validate.
+
+## Fun Stuff
+
+##### Auto Anki (Chinese Proof-of-Concept)
+I've been wanting to make something to [auto-generate](https://github.com/jaredwins99/autoanki) anki cards for a long time, and it works perfectly. Upload a show and it will create single-word cards based on your current vocabulary including video, audio, full text context, and translation.
+
+##### Pokemon TCG Scanner
+Pokemon TCG [scanner](https://github.com/jaredwins99/pokemon-tcg-scanner)! I'm surprised by how much other scanners are missing, so that was my focus: multi-card identification, variant detection (e.g., 1st edition), multiple language support, and individual-sales condition-level pricing.
+
