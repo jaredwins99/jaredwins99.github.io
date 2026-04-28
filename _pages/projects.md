@@ -52,7 +52,7 @@ I'd say it this is a perfect use [case](https://github.com/jaredwins99/gaussian-
 A clinical trial in Africa. Looks promising but can't tell more until it's published.
 
 ###### Nephrology Survival Analysis
-Similar to the malaria trial. (Nephrology is the study of the kidneys, since nephrons are a key part of the organ.)
+Similar to the malaria trial. Nephrology (from nephrons) is the study of kidney disease.
 
 ###### Language Application Effectiveness
 Another yet-to-be-published secret...
