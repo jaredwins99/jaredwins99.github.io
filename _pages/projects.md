@@ -48,6 +48,15 @@ Remember that French "whale" who made a fortune on polymarket betting on neighbo
 ###### Cost-Effective Lead Sampling with GPs
 I'd say it this is a perfect use [case](https://github.com/jaredwins99/gaussian-processes-xrf-soil-predictions) for high-dimensional Bayesian Gaussian processes, especially when you have few samples. If we can guess where the lead *isn't* in a containment site (and be confident about it) then we don't need to dig it all up.
 
+###### Malaria Drug Effects
+A clinical trial in Africa. Looks promising but can't tell more until it's published.
+
+###### Nephrology Survival Analysis
+Similar to the malaria trial. (Nephrology is the study of the kidneys, since nephrons are a key part of the organ.)
+
+###### Language Application Effectiveness
+This one has to be kept secret too!
+
 ###### Textbook Parser
 Textbooks can sometimes be incredibly uninteractive, and I wanted to change that. So far, breaking down *ELements of Statistical Learning* into [knowledge graphs](https://github.com/jaredwins99/textparse) and interactive visuals seems to be working, albeit with much misplaced emphasis by Claude. It works well as an example since 1) it's very popular, and 2) I know it well to validate.
 
