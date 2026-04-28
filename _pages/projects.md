@@ -58,7 +58,7 @@ Similar to the malaria trial. Nephrology (from nephrons) is the study of kidney 
 Another yet-to-be-published secret...
 
 ###### Textbook Parser
-Textbooks can sometimes be incredibly uninteractive, and I wanted to change that. So far, breaking down *ELements of Statistical Learning* into [knowledge graphs](https://github.com/jaredwins99/textparse) and interactive visuals seems to be working, albeit with much misplaced emphasis by Claude. It works well as an example since 1) it's very popular, and 2) I know it, so I can validate.
+Textbooks can sometimes be incredibly uninteractive, and I wanted to change that. So far, breaking down *Elements of Statistical Learning* into [knowledge graphs](https://github.com/jaredwins99/textparse) and interactive visuals seems to be working, albeit with much misplaced emphasis by Claude. It works well as an example since 1) it's very popular, and 2) I know it, so I can validate.
 
 ## Fun Stuff
 
